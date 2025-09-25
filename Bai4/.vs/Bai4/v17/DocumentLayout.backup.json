@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:06:13.496Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
