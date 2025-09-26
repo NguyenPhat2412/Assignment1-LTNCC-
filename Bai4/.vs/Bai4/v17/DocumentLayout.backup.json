@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\bai4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|c:\\users\\phat nguyen\\onedrive\\desktop\\l\u1EADp tr\u00ECnh n\u00E2ng cao\\bai4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ABD72253-D8F6-40AB-9897-6E23204E0973}|Bai4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +27,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA6wB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:18:50.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAIwMQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:42:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Phat Nguyen\\OneDrive\\Desktop\\L\u1EADp tr\u00ECnh n\u00E2ng cao\\Bai4\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
